@@ -3,6 +3,6 @@ export interface PillProps {
 }
 
 export interface Button {
-    title:string
-    styles:string
+    title: string
+    styles: string
 }
